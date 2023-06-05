@@ -1,0 +1,162 @@
+[
+    {
+        "Datacenter": "Elemental",
+        "WorldName": "Aegis",
+        "WorldId": 90
+    },
+    {
+        "Datacenter": "Elemental",
+        "WorldName": "Atomos",
+        "WorldId": 68
+    },
+    {
+        "Datacenter": "Elemental",
+        "WorldName": "Carbuncle",
+        "WorldId": 45
+    },
+    {
+        "Datacenter": "Elemental",
+        "WorldName": "Garuda",
+        "WorldId": 58
+    },
+    {
+        "Datacenter": "Elemental",
+        "WorldName": "Gungnir",
+        "WorldId": 94
+    },
+    {
+        "Datacenter": "Elemental",
+        "WorldName": "Kujata",
+        "WorldId": 49
+    },
+    {
+        "Datacenter": "Elemental",
+        "WorldName": "Tonberry",
+        "WorldId": 72
+    },
+    {
+        "Datacenter": "Elemental",
+        "WorldName": "Typhon",
+        "WorldId": 50
+    },
+    {
+        "Datacenter": "Gaia",
+        "WorldName": "Alexander",
+        "WorldId": 43
+    },
+    {
+        "Datacenter": "Gaia",
+        "WorldName": "Bahamut",
+        "WorldId": 69
+    },
+    {
+        "Datacenter": "Gaia",
+        "WorldName": "Durandal",
+        "WorldId": 92
+    },
+    {
+        "Datacenter": "Gaia",
+        "WorldName": "Fenrir",
+        "WorldId": 46
+    },
+    {
+        "Datacenter": "Gaia",
+        "WorldName": "Ifrit",
+        "WorldId": 59
+    },
+    {
+        "Datacenter": "Gaia",
+        "WorldName": "Ridill",
+        "WorldId": 98
+    },
+    {
+        "Datacenter": "Gaia",
+        "WorldName": "Tiamat",
+        "WorldId": 76
+    },
+    {
+        "Datacenter": "Gaia",
+        "WorldName": "Ultima",
+        "WorldId": 51
+    },
+    {
+        "Datacenter": "Mana",
+        "WorldName": "Anima",
+        "WorldId": 44
+    },
+    {
+        "Datacenter": "Mana",
+        "WorldName": "Asura",
+        "WorldId": 23
+    },
+    {
+        "Datacenter": "Mana",
+        "WorldName": "Chocobo",
+        "WorldId": 70
+    },
+    {
+        "Datacenter": "Mana",
+        "WorldName": "Hades",
+        "WorldId": 47
+    },
+    {
+        "Datacenter": "Mana",
+        "WorldName": "Ixion",
+        "WorldId": 48
+    },
+    {
+        "Datacenter": "Mana",
+        "WorldName": "Masamune",
+        "WorldId": 96
+    },
+    {
+        "Datacenter": "Mana",
+        "WorldName": "Pandaemonium",
+        "WorldId": 28
+    },
+    {
+        "Datacenter": "Mana",
+        "WorldName": "Titan",
+        "WorldId": 61
+    },
+    {
+        "Datacenter": "Meteor",
+        "WorldName": "Ramuh",
+        "WorldId": 60
+    },
+    {
+        "Datacenter": "Meteor",
+        "WorldName": "Unicorn",
+        "WorldId": 30
+    },
+    {
+        "Datacenter": "Meteor",
+        "WorldName": "Valefor",
+        "WorldId": 52
+    },
+    {
+        "Datacenter": "Meteor",
+        "WorldName": "Yojimbo",
+        "WorldId": 31
+    },
+    {
+        "Datacenter": "Meteor",
+        "WorldName": "Zeromus",
+        "WorldId": 32
+    },
+    {
+        "Datacenter": "Meteor",
+        "WorldName": "Belias",
+        "WorldId": 24
+    },
+    {
+        "Datacenter": "Meteor",
+        "WorldName": "Mandragora",
+        "WorldId": 82
+    },
+    {
+        "Datacenter": "Meteor",
+        "WorldName": "Shinryu",
+        "WorldId": 29
+    }
+]
