@@ -1,0 +1,9 @@
+{
+	"XIVAPI_KEY"    :   "YOUR_XIVAPI_KEY",
+	"mysql"			:	{
+		"host"		:	"YOUR_HOSTNAME",
+		"user"		:	"YOUR_USERNAME",
+		"password"	:	"YOUR_PASSWORD",
+        "database"	:	"thaliak"
+	}
+}
